@@ -1,0 +1,58 @@
+push
+move
+-14 0 0
+push
+move
+100 250 0
+rotate
+x 90
+torus
+0 0 0 7 70
+pop
+push
+move
+120 230 7
+rotate
+z -45
+box
+0 0 0 80 20 14
+pop
+move
+290 315 7
+push
+rotate
+z -115
+box
+0 0 0 170 16 14
+pop
+push
+rotate
+z -65
+move
+-14 8 0
+box
+0 0 0 185 17 14
+pop
+push
+move
+-47 -65 0
+box
+0 0 0 85 20 14
+pop
+push
+move
+127 20 0
+box
+0 0 0 86 17 14
+push
+move
+0 -65 0
+box
+0 0 0 86 19 14
+pop
+rotate
+z -90
+box
+0 0 0 178 19 14
+save
+qaf.png
